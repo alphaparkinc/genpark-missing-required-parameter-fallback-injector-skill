@@ -1,0 +1,6 @@
+name: genpark-missing-required-parameter-fallback-injector-skill
+version: 1.0.0
+description: Injects schema-defined default values or type placeholders for missing required tool parameters
+command: python
+args:
+  - mcp_server.py
