@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-missing-required-parameter-fallback-injector-skill"
+version = "1.0.0"
+description = "Injects schema-defined default values or type placeholders for missing required tool parameters"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
